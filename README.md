@@ -29,6 +29,7 @@ Este projeto é um exemplo simples de como criar um sistema de registro e login 
 2. Aplique as migrações
 
     python manage.py makemigrations
+   
     python manage.py migrate
    
 4. Rode o servidor:
