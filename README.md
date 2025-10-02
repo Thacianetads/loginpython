@@ -50,10 +50,10 @@ Acesse: http://127.0.0.1:8000
 
 # Principais Arquivos
 
-views.py
+- views.py
 
 Funções responsáveis por lidar com login, logout, registro e redirecionamentos.
 
-urls.py
+- urls.py
 
 Rotas principais: /signup/, /login/, /home/, /logout/.
